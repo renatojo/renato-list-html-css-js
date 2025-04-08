@@ -1,0 +1,37 @@
+body {
+    background-color: #1C1C1C;
+    color: white;
+}
+.divmaxima {
+    display: flex;
+}
+div {
+    background-color: #333333;
+    width: 200px;
+    border-radius: 10px;
+    margin: 10px;
+    transition: transform 0.3s ease;
+    
+}
+
+.item:hover {
+   
+    transform: scale(1.2); 
+}
+
+.tituloimagem {
+    text-align: center;
+    font-family: 'Dancing Script';
+}
+
+img {
+    display: flex;
+}
+
+.tituloprincipal {
+    font-family: 'Bungee Tint';
+}
+
+.divmaxima2 {
+    display: flex;
+}
