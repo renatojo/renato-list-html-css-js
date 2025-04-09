@@ -17,6 +17,13 @@ body {
     transition: transform 0.3s ease;
 }
 
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
 .item:hover {
    
     transform: scale(1.1); 
@@ -27,11 +34,6 @@ body {
     text-align: center;
     font-family:'Courier New', Courier, monospace;
     font-size:xx-large;
-}
-
-img {
-    
-
 }
 
 .tituloprincipal {
