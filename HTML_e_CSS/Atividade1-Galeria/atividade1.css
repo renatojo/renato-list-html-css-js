@@ -16,6 +16,8 @@ body {
     margin: 10px;
     transition: transform 0.3s ease;
     box-shadow: 0 5px 8px rgba(0,0,0,0.3);
+    flex: 1 1 calc(33.33% - 20px);
+    
 }
 
 img{
@@ -46,6 +48,4 @@ img{
     font-family: 'Dancing Script';
 }
 
-.divmaxima2 {
-    display: flex;
-}
+
