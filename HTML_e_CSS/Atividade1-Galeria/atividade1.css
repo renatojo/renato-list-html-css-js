@@ -2,6 +2,7 @@ body {
     background-color: #eff0d5;
     color: white;
 }
+
 .divmaxima {
     display: flex;
     flex-wrap: wrap;
@@ -9,36 +10,39 @@ body {
     justify-content: space-between;
 
 }
-.item{
+
+.item {
     background-color: #e0e0b6;
     width: 900px;
     border-radius: 10px;
     margin: 10px;
-    transition: transform 0.3s ease;
-    box-shadow: 0 5px 8px rgba(0,0,0,0.3);
     flex: 1 1 calc(33.33% - 20px);
-    
+    transition: transform 0.3s ease;
+    box-shadow: 0 5px 8px rgba(0, 0, 0, 0.3);
+
 }
 
-img{
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    height: 200px;
+    width: 200px;
     border-radius: 5px;
     padding-bottom: 50px;
 }
 
 .item:hover {
-   cursor: pointer;
-    transform: scale(1.1); 
+    cursor: pointer;
+    transform: scale(1.1);
     background-color: #bbbb98;
 }
 
 .tituloimagem {
     color: #171430;
     text-align: center;
-    font-family:'Courier New', Courier, monospace;
-    font-size:xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
 }
 
 .tituloprincipal {
@@ -47,5 +51,3 @@ img{
     color: #171430;
     font-family: 'Dancing Script';
 }
-
-
