@@ -52,7 +52,13 @@ img:hover{
 
 .tituloprincipal {
     text-align: center;
-    font-size: 300%;
+    font-size: 500%;
     color: #171430;
     font-family: 'Dancing Script';
+    background: linear-gradient(to right, #45C654, #AB2529);
+    border-radius: 10px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+    
 }
