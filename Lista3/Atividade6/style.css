@@ -1,0 +1,12 @@
+img {
+    height: 200px;
+    max-width: 500px;
+}
+
+.liImagens {
+    display: flex;
+}
+
+.imagens {
+    padding: 0 1rem;
+}

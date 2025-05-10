@@ -1,0 +1,8 @@
+td {    
+    padding: 0 20px;
+    border: solid #929292;
+}
+
+thead td {
+    background-color: rgb(183, 183, 183);
+}
