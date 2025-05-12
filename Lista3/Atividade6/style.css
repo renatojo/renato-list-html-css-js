@@ -10,3 +10,31 @@ img {
 .imagens {
     padding: 0 1rem;
 }
+
+thead th {
+    background-color: brown;
+}
+
+td {
+    border: solid #0000 1px;
+    padding: 5px 20px;
+}
+
+body {
+    background-color: bisque;
+
+}
+
+h1 {
+    font-family: Georgia;
+    color: #8b0000;
+}
+
+h3{
+    font-family: Georgia;
+    color: #8b0000;
+}
+
+footer{
+    margin-top: 30px;
+}
